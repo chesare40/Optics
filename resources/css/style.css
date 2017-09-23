@@ -118,3 +118,18 @@ div.title {
   width: 10rem;
   padding: 0.5rem 1.25rem;
 }
+
+/* --- Footer ---*/
+
+footer.container {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  background-color: azure;
+  padding: 4rem;
+}
+
+footer img {
+  height: 1.5rem;
+  margin-right: 1rem;
+}
